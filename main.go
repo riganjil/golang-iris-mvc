@@ -27,7 +27,7 @@ type HelloWorldController struct {
 // GET: /helloworld
 
 func (c *HelloWorldController) Get() string {
-    return "This is my default actions...okay"
+    return "This is my default actions...okay dude"
 }
 
 //
